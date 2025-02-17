@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyCT-tNi4A7o9FL-EmzctTSc0P930UBZ0wA";
+const API_KEY = "AIzaSyDsxGNUwgkfOzkaQMq7BuVCoVtFOcmgNGM";
 
 const data = {
   contents: [
